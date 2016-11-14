@@ -1,7 +1,7 @@
 # Andro
 Design of an anthropomorphic 3D printed robotic hand actuated by SMA
 
-Proyecto:[embed]https://github.com/FlorAndBo/Andro/files/589047/Diseno.de.una.mano.robotica.actuada.mediante.SMA.-.Florencia.Andrioli.Bogliani.pdf[/embed]
+Proyecto:[Diseño de una mano robótica actuada mediante SMA - Florencia Andrioli Bogliani.pdf](https://github.com/FlorAndBo/Andro/files/589047/Diseno.de.una.mano.robotica.actuada.mediante.SMA.-.Florencia.Andrioli.Bogliani.pdf)
 
 ![mano frente](https://cloud.githubusercontent.com/assets/20610508/20262017/a28ce962-aa60-11e6-9061-ca16fec94b9a.PNG)
 ![mano posterior](https://cloud.githubusercontent.com/assets/20610508/20262028/af9a4708-aa60-11e6-8361-917258da3758.jpg)
