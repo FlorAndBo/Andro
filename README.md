@@ -1,2 +1,4 @@
 # Andro
-Design of an anthropomorphic robotic hand Actuated by SMA
+Design of an anthropomorphic 3D printed robotic hand actuated by SMA
+
+[alt tag](https://github.com/FlorAndBo/Andro/to/pokeball.png)
